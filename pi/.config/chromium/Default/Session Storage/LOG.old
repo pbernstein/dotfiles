@@ -1,0 +1,21 @@
+2015/07/27-04:20:50.733 490 Reusing MANIFEST /home/peter/.config/chromium/Default/Session Storage/MANIFEST-000001
+2015/07/27-04:20:50.735 490 Recovering log #6
+2015/07/27-04:20:50.940 490 Reusing old log /home/peter/.config/chromium/Default/Session Storage/000006.log 
+2015/07/28-15:44:07.140 3681 Level-0 table #12: started
+2015/07/28-15:44:08.892 3681 Level-0 table #12: 1656206 bytes OK
+2015/07/28-15:44:10.466 3681 Delete type=0 #6
+2015/07/28-20:11:59.326 3681 Compacting 1@0 + 1@1 files
+2015/07/28-20:11:59.749 3681 Generated table #13: 189 keys, 957683 bytes
+2015/07/28-20:11:59.749 3681 Compacted 1@0 + 1@1 files => 957683 bytes
+2015/07/28-20:11:59.764 3681 compacted to: files[ 0 1 0 0 0 0 0 ]
+2015/07/28-20:11:59.765 3681 Delete type=2 #12
+2015/07/28-20:11:59.767 3681 Delete type=2 #9
+2015/07/29-19:13:08.007 3681 Level-0 table #15: started
+2015/07/29-19:13:08.283 3681 Level-0 table #15: 1362453 bytes OK
+2015/07/29-19:13:08.335 3681 Delete type=0 #11
+2015/08/06-15:18:54.627 3681 Compacting 1@0 + 1@1 files
+2015/08/06-15:18:55.139 3681 Generated table #16: 329 keys, 1625552 bytes
+2015/08/06-15:18:55.139 3681 Compacted 1@0 + 1@1 files => 1625552 bytes
+2015/08/06-15:18:55.157 3681 compacted to: files[ 0 1 0 0 0 0 0 ]
+2015/08/06-15:18:55.158 3681 Delete type=2 #13
+2015/08/06-15:18:55.163 3681 Delete type=2 #15
