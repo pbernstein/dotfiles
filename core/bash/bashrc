@@ -1,0 +1,26 @@
+#
+# ~/.bashrc
+#
+
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+#  xcompmgr -c &  # start the comp mgr
+[ -n "$XTERM_VERSION" ] && transset-df -a .5 >/dev/null # Transparent term
+#[ -n "$XTERM_VERSION" ] && transset-df -a  >/dev/null
+
+alias ls='ls --color=auto'
+PS1='[\u@\h \W]\$ '
+alias l='ls -ltr'
+alias vi='vim'
+export VISUAL='vim'
+set -o vi
+PATH=/home/peter/panel:/home/peter/panel_bar:$PATH
+
+export TERM="xterm-256color"
+export PS1="[\u@\h \w]\\$ \[$(tput sgr0)\]"
+
+#if [ -f ~/.local/lib/python2.7/site-packages/powerline/bindings/bash/powerline.sh ]; then
+#	    source ~/.local/lib/python2.7/site-packages/powerline/bindings/bash/powerline.sh
+#fi
+		
