@@ -8,4 +8,5 @@ filetype plugin indent on
 colorscheme distinguished
 set number
 set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+set backspace=indent,eol,start
  
