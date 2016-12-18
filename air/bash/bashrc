@@ -20,6 +20,7 @@
 
 PS1='[\u@\h \W]\$ '
 alias l='ls -ltr'
+alias vim='/Applications/MacVim.app/Contents/MacOS/Vim'
 alias vi='vim'
 export VISUAL='vim'
 set -o vi
@@ -35,4 +36,5 @@ export PS1="[\u@\h \w]\\$ \[$(tput sgr0)\]"
 #if [ -f ~/.local/lib/python2.7/site-packages/powerline/bindings/bash/powerline.sh ]; then
 #	    source ~/.local/lib/python2.7/site-packages/powerline/bindings/bash/powerline.sh
 #fi
-		
+	
+#``export PROMPT_COMMAND='log-recent -r $? -c "$(history 1)" -p $$'``	
