@@ -1,4 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/peter/.vim'
 let g:netrw_dirhist_2='/home/peter/git/tls/cli/js'
+let g:netrw_dirhist_3='/home/peter/git/tls-client/src/app'
+let g:netrw_dirhist_4='/home/peter/git/tls-client/src'
+let g:netrw_dirhist_5='/home/peter/git/tls-client'
+let g:netrw_dirhist_6='/home/peter/git/tls-client/src'
+let g:netrw_dirhist_7='/home/peter/git/tls-client/src/pipes'
+let g:netrw_dirhist_8='/home/peter/git/tls-client/src/pages/calendar'
+let g:netrw_dirhist_9='/home/peter/git/tls-client/src/components/loan/dropoff'

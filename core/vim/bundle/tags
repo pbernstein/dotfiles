@@ -1,0 +1,8 @@
+:Tabularize	tabular/doc/Tabular.txt	/*:Tabularize*
+Tabular.txt	tabular/doc/Tabular.txt	/*Tabular.txt*
+tabular	tabular/doc/Tabular.txt	/*tabular*
+tabular-intro	tabular/doc/Tabular.txt	/*tabular-intro*
+tabular-scripting	tabular/doc/Tabular.txt	/*tabular-scripting*
+tabular-toc	tabular/doc/Tabular.txt	/*tabular-toc*
+tabular-walkthrough	tabular/doc/Tabular.txt	/*tabular-walkthrough*
+tabular.vim	tabular/doc/Tabular.txt	/*tabular.vim*
